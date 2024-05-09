@@ -1,0 +1,9 @@
+# jQuery.ajax
+
+Find below a simple way of using jQuery.ajax to validate any phone number:
+
+```javascript
+// set endpoint and your access key
+var access_key = '66d34db168c0ae802a5726111cedd5b4';
+var phone_number = 8167751233;
+  
